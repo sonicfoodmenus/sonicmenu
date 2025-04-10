@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sonic Menu Info</title>
+</head>
+<body>
+
+  <section>
+    <h1>Explore the Sonic Menu</h1>
+    <p>
+      Looking for the latest Sonic Drive-In menu and prices? Visit 
+      <a href="https://sonicfoodmenus.com/" target="_blank">sonicfoodmenus.com</a> 
+      to find everything you need!
+    </p>
+    <p>
+      <strong>sonicfoodmenus.com</strong> is your go-to source for updated Sonic menu items, prices, secret menu hacks, drink options, combo deals, and nutritional details. Whether you're planning a quick snack or a full meal, this site helps you make smart, tasty choices at Sonic Drive-In.
+    </p>
+  </section>
+
+</body>
+</html>
